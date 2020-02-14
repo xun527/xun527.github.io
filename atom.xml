@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>张照勋的博客</title>
   
-  
+  <subtitle>长风破浪会有时，直挂云帆济沧海</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xun527.github.io/"/>
